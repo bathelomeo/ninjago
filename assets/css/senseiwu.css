@@ -1,6 +1,5 @@
 body{
-    background-color: gold;
-}
+background-image: linear-gradient(to bottom, #ffff00, #d5db02, #adb802, #889502, #667401, #667401, #667401, #667401, #889502, #adb802, #d5db02, #ffff00);}
 .masterwu1{
     background-color: red;
 }

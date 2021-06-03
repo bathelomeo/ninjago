@@ -1,15 +1,3 @@
-Body{
-    background-color: chartreuse;
-}
-.lloyd{
-    background-color: red;
-}
-.lloydgarmadon{
-    background-color: gold;
-}
-.lloydmontgomerygarmadon{
-    background-color: darkgreen;
-}
-.masterlloydmontgomerygarmadon{
-    background-color: blue;
+body {
+background-image: linear-gradient(to right top, #00ff43, #1fe936, #29d32a, #2dbe1d, #2ea911, #2ea911, #2ea911, #2ea911, #2dbe1d, #29d32a, #1fe936, #00ff43);    
 }

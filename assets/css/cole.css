@@ -1,15 +1,3 @@
 body{
-    background-color: brown;
-}
-.cole1{
-    background-color: red;
-}
-.cole2{
-    background-color: gold;
-}
-.cole3{
-    background-color: chartreuse;
-}
-.cole4{
-    background-color: blue;
+    background-image: linear-gradient(to bottom, #ff0000, #d2001f, #a20027, #710826, #420f1d, #4a1821, #522225, #5a2b29, #984e30, #ca7f28, #e8bb0c, #eaff0d);
 }

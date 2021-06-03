@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-image: radial-gradient(circle, #da1f05, #df2505, #e42b05, #e83004, #ed3504, #f03c04, #f34205, #f64805, #f85006, #fa5708, #fc5e0a, #fe650d);
 }
 .kai1{
     background-color: darkorange;
@@ -9,6 +9,7 @@ body{
 }
 .kai3{
     background-color: chartreuse;
+    color: white;
 }
 .kai4{
     background-color: blue;
